@@ -15,9 +15,8 @@ Gaem V4: fixed UI so it isnt hardcoded
 
 
 # Instruction
-
 W Key: Tilt Forwards
-S Key: Tilt Backwards
+S Key: Tilt Backward
 A Key: Rotate Leftwards
 D Key: Rotate Rightwards
 Q Key: Turn Left
@@ -26,4 +25,3 @@ Left Shift Key: Deceleration (Slow Down)
 Space Key: Acceleration (Speed Up)
 Mouse Left Click: Shoot Blue Laser
 Mouse Right Click: Shoot Purple Laser
-
