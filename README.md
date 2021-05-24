@@ -14,7 +14,7 @@ Gaem V4: fixed UI so it isnt hardcoded
 
 
 
-# Instructions
+# Instruction
 
 W Key: Tilt Forwards
 S Key: Tilt Backwards
