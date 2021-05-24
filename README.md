@@ -4,6 +4,8 @@
 This link provides all the releases and executable files that are needed to play the game.
 https://drive.google.com/drive/folders/17v9dZhjDHKznqxlnk_FvQLSiKy5OLrSJ?usp=sharing
 
+
+
 Gaem V1: basic flight simulator, fly around nothing much
 
 Gaem V2: flight simulator with more physics and LASERS, if you crash, then you break into pieces
@@ -14,14 +16,24 @@ Gaem V4: fixed UI so it isnt hardcoded
 
 
 
-# Instruction
+# Instructions
+
 W Key: Tilt Forwards
+
 S Key: Tilt Backward
+
 A Key: Rotate Leftwards
+
 D Key: Rotate Rightwards
+
 Q Key: Turn Left
+
 E Key: Turn Right
+
 Left Shift Key: Deceleration (Slow Down)
+
 Space Key: Acceleration (Speed Up)
+
 Mouse Left Click: Shoot Blue Laser
+
 Mouse Right Click: Shoot Purple Laser
